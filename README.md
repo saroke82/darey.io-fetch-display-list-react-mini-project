@@ -8,8 +8,3 @@ Build a functional React app that fetches data from a public API and displays it
 - Reusable ListComponent that accepts items and a render function
 - Handles loading and error states
 - Uses functional components and React hooks
-
-## Getting Started
-
-### Installation
-1. Clone the repository:
